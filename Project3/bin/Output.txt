@@ -1,0 +1,1041 @@
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: The bank has no customers at this time.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: The bank has no accounts at this time.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Customer name: Customer phone: Add customer successfull.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Customer name: Customer phone: Add customer successfull.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: John Doe; 111-11-1111; 616-331-1000
+Erin Hayes; 222-22-2222; 616-331-2000
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Customer name: Customer phone: Add customer failed.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: John Doe; 111-11-1111; 616-331-1000
+Erin Hayes; 222-22-2222; 616-331-2000
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Initial Amount: Account Type (c/C or s/S): Add account successfull.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Initial Amount: Account Type (c/C or s/S): Interest Rate: Add account successfull.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Initial Amount: Account Type (c/C or s/S): Add account successfull.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Initial Amount: Account Type (c/C or s/S): Interest Rate: Add account successfull.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: John Doe; 111-11-1111; 616-331-1000
+Erin Hayes; 222-22-2222; 616-331-2000
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1000.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4000.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Initial Amount: Account Type (c/C or s/S): Add account failed.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1000.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4000.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Checking Account: Account #: 111111  Balance: $1000.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4000.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Customer not found.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $1000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $2000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $2000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $4000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account not found.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Deposit amount: Deposit successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1300.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4000.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Deposit amount: Deposit successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1300.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4500.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Deposit amount: Deposit failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Deposit amount: Deposit failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Deposit amount: Deposit failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Deposit amount: Deposit failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Withdraw amount: Withdraw failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1300.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4500.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account balance: $1300.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account balance: $2000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account balance: $2000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account balance: $4500.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account not found.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: Account not found.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $1000.00
+DEPOSIT: $500.00
+WITHDRAWAL: $100.00
+WITHDRAWAL: $100.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $2000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $2000.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $4000.00
+DEPOSIT: $1000.00
+WITHDRAWAL: $200.00
+WITHDRAWAL: $300.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1300.00
+Savings Account: Account #: 111112  Balance: $2000.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4500.00 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Accounts processed.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1300.00
+Savings Account: Account #: 111112  Balance: $2060.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2000.00
+Savings Account: Account #: 111114  Balance: $4612.50 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: From Account Number: To Account Number: Transfer Amount: Funds transfer successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: From Account Number: To Account Number: Transfer Amount: Funds transfer successful.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1200.00
+Savings Account: Account #: 111112  Balance: $2160.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2200.00
+Savings Account: Account #: 111114  Balance: $4412.50 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: From Account Number: To Account Number: Transfer Amount: Funds transfer failed!
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1200.00
+Savings Account: Account #: 111112  Balance: $2160.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2200.00
+Savings Account: Account #: 111114  Balance: $4412.50 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $1000.00
+DEPOSIT: $500.00
+WITHDRAWAL: $100.00
+WITHDRAWAL: $100.00
+WITHDRAWAL: $100.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $2000.00
+DEPOSIT: $60.00
+DEPOSIT: $100.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $2000.00
+DEPOSIT: $200.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Account number: DEPOSIT: $4000.00
+DEPOSIT: $1000.00
+WITHDRAWAL: $200.00
+WITHDRAWAL: $300.00
+DEPOSIT: $112.50
+WITHDRAWAL: $200.00
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1200.00
+Savings Account: Account #: 111112  Balance: $2160.00 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2200.00
+Savings Account: Account #: 111114  Balance: $4412.50 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Accounts processed.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1198.00
+Savings Account: Account #: 111112  Balance: $2224.80 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2200.00
+Savings Account: Account #: 111114  Balance: $4522.81 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Accounts processed.
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Checking Account: Account #: 111111  Balance: $1196.00
+Savings Account: Account #: 111112  Balance: $2291.54 Interest Rate: 3.0
+Checking Account: Account #: 111113  Balance: $2200.00
+Savings Account: Account #: 111114  Balance: $4635.88 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Checking Account: Account #: 111111  Balance: $1196.00
+Savings Account: Account #: 111112  Balance: $2291.54 Interest Rate: 3.0
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Customer SSN: Checking Account: Account #: 111113  Balance: $2200.00
+Savings Account: Account #: 111114  Balance: $4635.88 Interest Rate: 2.5
+<<<<<<<<< GVSU Lakers Bank Menu >>>>>>>>>
+1.  Add Customer
+2.  Add Account
+3.  List All Customers
+4.  List All Accounts
+5.  List Customer's Accounts
+6.  List Account's Transactions
+7.  Account Deposit
+8.  Account Withdraw
+9.  Account Balance
+10. Funds Transfer
+11. Process Accounts
+12. Quit
+Enter your selection: Good Bye!!!
